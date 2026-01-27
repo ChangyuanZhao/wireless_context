@@ -1,0 +1,10 @@
+scenario9_dev/
+*.mat
+*.jpg
+*.png
+checkpoints/
+checkpoints_2/
+dqn_checkpoints/
+*.pth
+.DS_Store
+*.log
